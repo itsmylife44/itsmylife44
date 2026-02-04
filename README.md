@@ -163,7 +163,7 @@ const xSpaM = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsmylife44&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/itsmylife44)
+[![trophy](https://github-trophies.vercel.app/?username=itsmylife44&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/itsmylife44)
 
 </div>
 
