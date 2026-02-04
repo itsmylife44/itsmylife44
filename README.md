@@ -105,7 +105,7 @@ const xSpaM = {
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/itsmylife44">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=itsmylife44&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&border=00ff41&dates=555555" alt="xSpaM's Streak Stats" />
+  <img height="180em" src="https://github-readme-streak-stats-nine-chi.vercel.app/?user=itsmylife44&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&border=00ff41&dates=555555" alt="xSpaM's Streak Stats" />
 </a>
 
 <br/><br/>
