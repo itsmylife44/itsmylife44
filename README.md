@@ -110,18 +110,18 @@ const xSpaM = {
 
 <!-- STATS + STREAK SIDE BY SIDE -->
 <a href="https://github.com/itsmylife44">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmylife44&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false&count_private=true&include_all_commits=true" alt="xSpaM's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsmylife44&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false&count_private=true&include_all_commits=true" alt="xSpaM's GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/itsmylife44">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmylife44&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&border=00ff41&dates=555555" alt="xSpaM's Streak Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=itsmylife44&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&border=00ff41&dates=555555" alt="xSpaM's Streak Stats" />
 </a>
 
 <br/><br/>
 
 <!-- TOP LANGUAGES -->
 <a href="https://github.com/itsmylife44">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmylife44&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsmylife44&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&langs_count=8" alt="Top Languages" />
 </a>
 
 </div>
